@@ -1,0 +1,5 @@
+Drop the TQ and MultiplaterPreviewVersion folders of the mod into the root folder of the game: ...\Steam\steamapps\common\Titan Quest II
+
+Mod contains 2 files. You can check if the mod is installed correctly by checking their presence in the following paths:
+1. ...\Steam\steamapps\common\Titan Quest II\TQ2\Content\Paks\NightmareDifficulty_P.pak
+2. ...\Steam\steamapps\common\Titan Quest II\MultiplayerPreviewVersion\TQ2\Content\Paks\NightmareDifficulty_P.pak

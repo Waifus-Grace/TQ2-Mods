@@ -1,0 +1,5 @@
+Закиньте папки из нужной версии мода в корневую папку игры по следующему пути: ...\Steam\steamapps\common\Titan Quest II
+
+Мод содержит 2 файла. Вы можете проверить правильность установки мода, убедившись в их присутствии по следующим путям:
+1. ...\Steam\steamapps\common\Titan Quest II\TQ2\Content\Paks\CharacterSpeed_x*версия мода*.pak
+2. ...\Steam\steamapps\common\Titan Quest II\MultiplayerPreviewVersion\TQ2\Content\Paks\CharacterSpeed_x*версия мода*.pak
