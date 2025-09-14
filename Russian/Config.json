@@ -1,3 +1,7 @@
 {
-  "version": "1.9.10"
+    "shipping_settings": {
+        "version_russian": "1.9.7",
+        "version_subtitles": "",
+        "version_launcher": ""
+    }
 }
