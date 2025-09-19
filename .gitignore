@@ -1,2 +1,5 @@
 *.7z
 *.txt
+**/.oldversions/
+**/*.png
+**/*.7z
