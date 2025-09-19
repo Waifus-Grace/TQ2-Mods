@@ -1,9 +1,0 @@
-Закиньте папки TQ и MultiplayerPreviewVersion в корневую папку игры по следующему пути: ...\Steam\steamapps\common\Titan Quest II
-
------------------------------
-
-Русификатор содержит 2 файла. Вы можете проверить правильность установки русификатора, убедившись в присутствии файлов по следующим путям:
-1. ...\Steam\steamapps\common\Titan Quest II\TQ2\Content\Paks\TQ2-Windows_P.pak
-2. ...\Steam\steamapps\common\Titan Quest II\MultiplayerPreviewVersion\TQ2\Content\Paks\TQ2-Windows_P.pak
-
------------------------------
