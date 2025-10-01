@@ -37,4 +37,4 @@
 "keyword_separator"," - ","Used for the list of ability tags/flags shown at the top of ability tooltips"
 "damage","Урон",""
 "attack_speed","Attack Speed",""
-"attack_speed_value","{Value}x",""
+"attack_speed_value","{Value}/сек.",""
