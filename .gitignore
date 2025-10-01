@@ -3,3 +3,4 @@
 **/.oldversions/
 **/*.png
 **/*.7z
+!**/CSV.7z
