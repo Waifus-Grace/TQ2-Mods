@@ -4,7 +4,7 @@
 "combat_basics_title","Атака",""
 "combat_basics_text","Нажмите <gga id=\""bp_selector_player_standardWeaponAttack\""/>, чтобы <b>атаковать</>.",""
 "inventory_title","Инвентарь",""
-"inventory_text","Боги даровали вам добычу.\r\n\r\nnНажмите <gia id=\""ia_UI_window_inventory\""/>, чтобы открыть ваш <b>инвентарь</>.",""
+"inventory_text","Боги даровали вам добычу.\r\n\r\nНажмите <gia id=\""ia_UI_window_inventory\""/>, чтобы открыть ваш <b>инвентарь</>.",""
 "mastery_window_text","Боги даровали вам свое благословение. \r\n\r\nНажмите <gia id=\""ia_UI_window_masteries\""/>, чтобы открыть <b>экран мастерства</> и выбрать ваше первое мастерство.",""
 "mastery_window_title","Выбор мастерства",""
 "attribute_window_text","Вы получили <b>очки атрибутов</>. Нажмите <gia id=\""ia_UI_window_attributes\""/>, чтобы вложить их.",""

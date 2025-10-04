@@ -126,7 +126,7 @@
 "RingOfFlame_Mod_BlazingHeat_1Description","Повышает наносимый урон вплоть до <b>{DmgMod_UI}|round()%</> в зависимости от близости к центру.\nПостоянство: <b>+{ReservedMPMod}|round()</> занимаемой энергии.",""
 "RingOfFlame_Mod_BlazingHeat_2DescriptionShort","Повышает наносимый урон вплоть до <b>{DmgMod_UI}|round()%</> в зависимости от близости к центру.",""
 "RingOfFlame_Mod_EnhancedAmplify_0Name","Усиление",""
-"RingOfFlame_Mod_EnhancedAmplify_1Description","<b>+{AmplifyMod}|round()</> Maximum Amplify.\r\nPermanency: <b>+{ReservedMPMod}|round()</> Energy reserved.",""
+"RingOfFlame_Mod_EnhancedAmplify_1Description","<b>+{AmplifyMod}|round()</> предела усиления.\r\nПостоянство: <b>+{ReservedMPMod}|round()</> занимаемой энергии.",""
 "RingOfFlame_Mod_Overload_0Name","Перегрузка",""
 "RingOfFlame_Mod_Overload_1Description","<b>+{RadiusMod_UI}|round()%</> области за каждый заряд <b>перегрузки</>.\n<b>+{DmgMod_UI}|round()%</> урона за каждый заряд <b>перегрузки</>.",""
 "RingOfFlame_Mod_ScorchingWeapon_0Name","Пламенеющее оружие",""

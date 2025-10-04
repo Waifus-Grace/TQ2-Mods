@@ -40,7 +40,7 @@
 "DeadlyAffliction_Feat_AilmentPower_0Name","Сила хвори",""
 "DeadlyAffliction_Feat_AilmentPower_1Description","<b>+{AilmentPower}%</> силы хвори",""
 "NimbleDefense_0Name","Верткая оборона",""
-"NimbleDefense_1Description","<b_gold>Уровень {CurrentLevel}:</>\r\n<b>+{MovementCDCurrent}|floor()%</> скорости перезарядки умений движения\r\n<b>+{GlancingCurrent}|floor()%</> шанса скользящих ударов.\r\n<b_gold>Уровень {NextLevel}:</>\r\n<b>+{MovementCDNext}|floor()%</> скорости перезарядки умений движения\r\n<b>+{GlancingNext}|floor()%</> шанса скользящих ударов.",""
+"NimbleDefense_1Description","<b_gold>Уровень {CurrentLevel}:</>\r\n<b>+{MovementCDCurrent}|floor()%</> скорости перезарядки умений движения\r\n<b>+{GlancingCurrent}|floor()%</> шанса скользящих атак\r\n<b_gold>Уровень {NextLevel}:</>\r\n<b>+{MovementCDNext}|floor()%</> скорости перезарядки умений движения\r\n<b>+{GlancingNext}|floor()%</> шанса скользящих атак",""
 "NimbleDefense_Feat_GlancingProjectile_0Name","Скользящие снаряды",""
 "NimbleDefense_Feat_GlancingProjectile_1Description","<b>+{GlancingProjChance}%</> шанса скользящих снарядов\n<b>-{GlancingBlowChance}%</> шанса скользящих ударов",""
 "NimbleDefense_Feat_GlancingBlow_0Name","Скользящие удары",""
