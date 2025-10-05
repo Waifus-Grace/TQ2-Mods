@@ -4,3 +4,4 @@
 **/*.png
 **/*.7z
 !**/CSV.7z
+!**/Russian_TQGrace.7z
