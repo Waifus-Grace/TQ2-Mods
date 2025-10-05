@@ -1,0 +1,9 @@
+﻿Key,SourceString,DevComment
+"NetworkErrorModal_Title","Ошибка сети",""
+"UnknownNetworkError","Неизвестная ошибка сети",""
+"CreateSessionFailed","Не удалось создать игровую сессию. Проверьте подключение к Интернету.",""
+"JoinSessionFailed","Не удалось присоединиться к игровой сессии. Проверьте подключение к Интернету.",""
+"Error_ServiceConnectionLost","Подключение потеряно",""
+"Error_ConnectionDropped","Подключение потеряно",""
+"Error_NoNetworkConnection","Нет соединения с Интернетом",""
+"Error_InvalidSession","Неправильная игровая сессия",""
