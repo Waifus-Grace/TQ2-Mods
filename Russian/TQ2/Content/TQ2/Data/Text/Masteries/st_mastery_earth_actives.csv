@@ -136,7 +136,7 @@
 "VolcanicEruption_0Name","Извержение",""
 "VolcanicEruption_1Description","Разрушает землю в месте цели, нанося <b>{dataDmgAlt2.StrikeMinDmgTotal}|round() - {dataDmgAlt2.StrikeMaxDmgTotal}|round()</> дробящего урона в <b>{dataDmgAlt2.Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области и опутывая на <b>{dataDmgAlt2.HitRootDurationTotal}|fmt(min_frac=0,max_frac=1) сек.</>\nРазрушенная земля остается активной <b>{dataActive.DurationTotal}|fmt(min_frac=0,max_frac=1) сек.</>\nПосле окончания активности вызывает извержение, наносящее <b>{dataDmg.FireMinDmgTotal}|round() - {dataDmg.FireMaxDmgTotal}|round()</> урона огнем в <b>{dataDmg.Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области.\nУмение можно применить повторно, чтобы досрочно прекратить активность земли.",""
 "VolcanicEruption_Mod_Aftershocks_0Name","Афтершок",""
-"VolcanicEruption_Mod_Aftershocks_1Description","Каждое изверждение наносит <b>{Dmg}|round()</> дробящего урона в <b>{Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области",""
+"VolcanicEruption_Mod_Aftershocks_1Description","Каждое извержение наносит <b>{Dmg}|round()</> дробящего урона в <b>{Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области",""
 "VolcanicEruption_Mod_EnhancedDuration_0Name","Длительность",""
 "VolcanicEruption_Mod_EnhancedDuration_1Description","<b>+{DurationMod}|fmt(min_frac=0,max_frac=1) сек.</> длительности\n<b>+{MPCostMod}|round()</> расхода энергии",""
 "VolcanicEruption_Mod_EscalatingEruption_0Name","Растущее извержение",""
