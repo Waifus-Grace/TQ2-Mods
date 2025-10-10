@@ -8,7 +8,7 @@
 "CastTimeTitle_Cast","Время сотворения",""
 "CastRangeDistance","{0} {0}|plural(one=Метр,other=Метров)",""
 "CostPerSecondFormat","{0}/сек.",""
-"CostFormat","{0} {1}|plural(attribute_mana=энергии,other={1}) ({2})","arguments: 0 = number; 1 = stat; 2 = cost type (e.g. over time)"
+"CostFormat","{0} {1} ({2})","arguments: 0 = number; 1 = stat; 2 = cost type (e.g. over time)"
 "TooltipAbilityDamageFormat","{0} {1}","args: 0 = number; 1 = damage type"
 "TooltipAbilityDamageRangeFormat","{0}-{1} {2}","args: 0 = low range number; 1 = high range number; 2 = damage type"
 "TooltipListDelimiter","\, ","ability tooltips can use this to combine systemic labels in list"

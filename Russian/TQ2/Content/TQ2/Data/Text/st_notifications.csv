@@ -8,5 +8,5 @@
 "death_message_hardcore","Ваша нить оборвана",""
 "stash_full","Хранилище заполнено",""
 "stash_not_selected","Нет открытого хранилища",""
-"lever_handle_missing","Handle Missing","Used when lever handle not socketed in lever multi state actor"
-"lever_handle_returned","Handle Returned","Used when lever is returned to the socket of lever multi state actor"
+"lever_handle_missing","Нет ручки","Used when lever handle not socketed in lever multi state actor"
+"lever_handle_returned","Ручка вставлена","Used when lever is returned to the socket of lever multi state actor"

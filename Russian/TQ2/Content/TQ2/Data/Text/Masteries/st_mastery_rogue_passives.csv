@@ -124,6 +124,6 @@
 "EvasiveManeuvers_Feat_GlancingDamage_0Name","Снижение урона",""
 "EvasiveManeuvers_Feat_GlancingDamage_1Description","<b>+{GlancingDmg}%</> снижения урона скользящих ударов\n<b>-{GlancingChance}%</> шанса скользящих ударов",""
 "EvasiveManeuvers_Feat_GlancingHeal_0Name","Лечение",""
-"EvasiveManeuvers_Feat_GlancingHeal_1Description","При получении скользящих ударов вы исцеляетесь на <b>{Heal}%</> от сниженного урона.",""
+"EvasiveManeuvers_Feat_GlancingHeal_1Description","При получении скользящих ударов вы исцеляетесь на <b>{Heal}%</> от сниженного урона",""
 "EvasiveManeuvers_Feat_GlancingSpecial_0Name","Движение",""
-"EvasiveManeuvers_Feat_GlancingSpecial_1Description","После применения умения движения дает <b>+{DmgReduction}%</> снижения урона от скользящих ударов.\nСнижается на <b>{DecayRate}%</> каждую секунду.",""
+"EvasiveManeuvers_Feat_GlancingSpecial_1Description","После применения умения движения дает <b>+{DmgReduction}%</> снижения урона от скользящих ударов.\nСнижается на <b>{DecayRate}%</> каждую секунду",""
