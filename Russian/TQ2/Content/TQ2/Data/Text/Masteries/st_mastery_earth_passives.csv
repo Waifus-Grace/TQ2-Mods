@@ -50,7 +50,7 @@
 "Cremation_Feat_Chance_0Name","Шанс",""
 "Cremation_Feat_Chance_1Description","<b>+50%</> шанса горения\n<b>-20%</> силы горения",""
 "Cremation_Feat_Ignite_0Name","Воспламенение",""
-"Cremation_Feat_Ignite_1Description","При наложении горения с <b>2%</> шансом за каждый заряд вызываете воспламенение",""
+"Cremation_Feat_Ignite_1Description","При наложении горения вы с <b>2%</> шансом за каждый его заряд на цели вызываете воспламенение",""
 "EarthBarrier_0Name","Каменный барьер",""
 "EarthBarrier_1Description","<b_gold>Уровень {CurrentLevel}:</>\n<b>+{BarrierCurrent}|round()%</> барьера\n<b>+{ArmorCurrent}|round()%</> брони\n\n<b_gold>Уровень {NextLevel}:</>\n<b>+{BarrierNext}|round()%</> барьера\n<b>+{ArmorNext}|round()%</> брони",""
 "EarthBarrier_Feat_Armor_0Name","Броня",""
