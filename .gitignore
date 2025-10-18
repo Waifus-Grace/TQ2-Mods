@@ -6,6 +6,7 @@
 **/*.7z
 /Subtitles
 !**/Plugins.7z
+!**/Plugins_Source.7z
 !**/CSV.7z
 !**/CSV_Source.7z
 !**/Russian_TQGrace.7z
