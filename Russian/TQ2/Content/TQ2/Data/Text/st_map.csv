@@ -1,4 +1,4 @@
-﻿Key,SourceString,DevComment
+﻿"Key","SourceString","DevComment"
 "fast_travel_destinations","Назначения:",""
 "move_portal_confirmation","Хотите перенести свой личный портал?",""
 "portal_button_tooltip","Открыть портал","The button in the HUD next to the minimap that opens a players personal portal"
@@ -27,9 +27,6 @@
 "fast_travel_in_combat","В бою",""
 "map","Карта",""
 "marker_dungeon","Вход",""
-"0_Intro","Остров Проти - Пролог",""
-"1_Ichtians","Затопленные угодья",""
-"2_NorthernBeaches","Северные пляжи",""
 "chapter_selection","Сюжетная глава",""
 "minimap_area_label","{AreaName} (Ур. {AreaLevel})",""
 "minimap_current_area_level_label","Текущий уровень области",""
@@ -43,3 +40,4 @@
 "marker_destructible_wall","Разрушенная стена",""
 "map_quests","Карта",""
 "world_greece","Греция",""
+"bliblup","Старинная записка",""

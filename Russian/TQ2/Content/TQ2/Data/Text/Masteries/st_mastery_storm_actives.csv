@@ -4,8 +4,13 @@
 "IceShards_Mod_Torrent_0Name","Поток",""
 "IceShards_Mod_Torrent_1Description","<b>+{ProjCountMod}|round()</> выпускаемых снарядов.\n<b>+{MPCostMod}|round()</> расхода энергии.",""
 "IceShards_Mod_Penetration_0Name","Пробивание",""
-"IceShards_Mod_Penetration_1Description","Снаряды пробивают <b>{ProjPenMod}|round()</> {ProjPenMod}|plural(one=врага,other=врагов).\n<b>-{DmgMod_UI}|round()%</> урона после первого попадания.","old:\nProjectiles penetrate <b>{ProjPenMod}|round()</> targets.\n<b>{ProjSpdMod_UI}|round()%</> more Projectile Speed.\n<b>+{MPCostMod}|round()</> Energy Cost."
-"IceShards_Mod_Penetration_2DescriptionShort","Снаряды пробивают <b>{ProjPenMod}|round()</> {ProjPenMod}|plural(one=врага,other=врагов).\n<b>-{DmgMod_UI}|round()%</> урона после первого попадания.","old:\nProjectiles penetrate <b>{ProjPenMod}|round()</> targets.\n<b>{ProjSpdMod_UI}|round()%</> more Projectile Speed."
+"IceShards_Mod_Penetration_1Description","Снаряды пробивают <b>{ProjPenMod}|round()</> {ProjPenMod}|plural(one=врага,other=врагов).\n<b>-{DmgMod_UI}|round()%</> урона после первого попадания.","old:
+Projectiles penetrate <b>{ProjPenMod}|round()</> targets.
+<b>{ProjSpdMod_UI}|round()%</> more Projectile Speed.
+<b>+{MPCostMod}|round()</> Energy Cost."
+"IceShards_Mod_Penetration_2DescriptionShort","Снаряды пробивают <b>{ProjPenMod}|round()</> {ProjPenMod}|plural(one=врага,other=врагов).\n<b>-{DmgMod_UI}|round()%</> урона после первого попадания.","old:
+Projectiles penetrate <b>{ProjPenMod}|round()</> targets.
+<b>{ProjSpdMod_UI}|round()%</> more Projectile Speed."
 "IceShards_Mod_FrostExplosion_0Name","Морозный взрыв",""
 "IceShards_Mod_FrostExplosion_1Description","При поражении замороженного врага вызывается взрыв, наносящий <b>{Damage}|round()</> урона холодом в <b>{Radius_UI}|fmt(min_frac=1,max_frac=1)м</> области.",""
 "IceShards_Mod_Homing_0Name","Преследование",""

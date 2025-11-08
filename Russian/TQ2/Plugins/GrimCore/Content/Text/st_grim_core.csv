@@ -1,4 +1,4 @@
-﻿Key,SourceString,DevComment
+﻿"Key","SourceString","DevComment"
 "NetworkErrorModal_Title","Ошибка сети",""
 "UnknownNetworkError","Неизвестная ошибка сети",""
 "CreateSessionFailed","Не удалось создать игровую сессию. Проверьте подключение к Интернету.",""

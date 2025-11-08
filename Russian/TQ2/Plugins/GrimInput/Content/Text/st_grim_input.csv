@@ -1,4 +1,4 @@
-﻿Key,SourceString,DevComment
+﻿"Key","SourceString","DevComment"
 "GamepadCollection_Name","Геймпад",""
 "GamepadIcons_Name","Иконки геймпада",""
 "GamepadIcons_Description","Определяет вид отображаемых иконок геймпада. Автоматическая настройка определяет их в зависимости от типа подключенного геймпада. Все остальные варианты устанавливают определенные виды иконок.",""

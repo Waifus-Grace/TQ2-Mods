@@ -64,8 +64,6 @@
 "SafeZone_KeyToPress_Gamepad","Левый стик",""
 "SafeZone_KeyToPress_Mouse","Колесико мыши",""
 "SafeZoneEditorInstructions","Используйте <text color=""FFFFFFFF"" fontface=""black"">{0}</>, чтобы настроить углы так, чтобы они совпадали с краями вашего экрана.",""
-"SafeZone_KeyToPress_Gamepad","Левый стик",""
-"SafeZone_KeyToPress_Mouse","Колесико мыши",""
 "PerfStatDisplayMode_None","Нет",""
 "PerfStatDisplayMode_TextOnly","Только текст",""
 "PerfStatDisplayMode_GraphOnly","Только графика",""

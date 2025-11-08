@@ -101,3 +101,8 @@
 "LanguageSetting_Description","Язык игры.",""
 "LanguageChanged_Title","Смена языка",""
 "LanguageChanged_Message","Необходимо полностью перезапустить игру, чтобы все языковые изменения вступили в силу.",""
+"TooltipComparisonModeSection_Name","Сравнение",""
+"TooltipComparisonMode_Name","Окно сравнения",""
+"TooltipComparisonMode_Description","Определяет, когда показывать окно сравнения.",""
+"TQ2TooltipComparisonMode_Toggle","Переключатель",""
+"TQ2TooltipComparisonMode_Hold","Удерживание",""

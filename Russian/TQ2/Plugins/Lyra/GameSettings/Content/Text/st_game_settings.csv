@@ -1,4 +1,4 @@
-﻿Key,SourceString,DevComment
+﻿"Key","SourceString","DevComment"
 "WarningReasonLine","<Icon.Warning></> {0}",""
 "DisabledReasonLine","<Icon.Warning></> {0}",""
 "OnlyPrimaryPlayerEditable","Можете быть изменено только хостом.",""
