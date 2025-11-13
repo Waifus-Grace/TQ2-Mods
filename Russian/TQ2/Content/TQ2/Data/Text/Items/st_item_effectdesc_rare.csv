@@ -64,7 +64,7 @@
 "suffix_1_unique_OnHit_AddPlagued_TargetFrozen.TooltipText","Уникальное: основная атака получает дополнительно 100% шанса чумы при ударе по замороженным врагам",""
 "suffix_1_unique_OnHit_FreezeChance.TooltipText","Уникальное: каждые 10 сек. атака оружием замораживает врагов на 1 сек.",""
 "suffix_1_unique_SilenceOnHit.TooltipText","Уникальное: 10% шанса наложить немоту при ударе",""
-"suffix_1_unique_StunChance_x2.TooltipText","Уникальное: {Value}% шанса ошеломления на 1 сек. при ударе",""
+"suffix_1_unique_StunChance_x2.TooltipText","Уникальное: {Value}% шанса оглушения на 1 сек. при ударе",""
 "affxi_1_infrequent_PerResVitalityPoison","+{Value}% сопротивления яду\r\n+{Value}% сопротивления здоровью",""
 "affix_1_infrequent_PerStunChance","5% шанса ошеломения на 1 сек. при ударе",""
 "affix_1_infrequent_FlatDamageEnergyDrain","+{Value} урона похищением энергии от оружия",""

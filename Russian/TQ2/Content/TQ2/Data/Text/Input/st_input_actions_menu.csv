@@ -12,5 +12,5 @@
 "dialogue_option_4","Выбор 4",""
 "loot_plate_visibility","Видимость предметов",""
 "loot_plate_interactability","Взаимодействие с предметами",""
-"tooltip_advanced","Показать подробности",""
+"tooltip_advanced","Подробнее","For now only the nested tooltips are implemented. Will be changed back to 'Show Advanced Tooltip' once the full functionality is present"
 "hide_ui","Скрыть интерфейс",""
