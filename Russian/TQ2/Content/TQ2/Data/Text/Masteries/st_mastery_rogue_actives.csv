@@ -147,7 +147,7 @@
 "Flicker_Mod_FlowGain_1Description","При поражении <me_Mark>отмеченного</> врага вы получаете <me_Flow>поток</>.\n<b>+{BaseCDMod}|fmt(min_frac=0,max_frac=1) сек.</> длительности перезарядки.",""
 "Flicker_Mod_FlowGain_2DescriptionShort","При поражении <me_Mark>отмеченного</> врага вы получаете <me_Flow>поток</>.",""
 "Flicker_Mod_Rupture_0Name","Разрыв",""
-"Flicker_Mod_Rupture_1Description","При ударе с <b>{RuptureChance_UI}|fmt(min_frac=0,max_frac=1)%</> шансом вызывает <me_Rupture>разрыв</>.",""
+"Flicker_Mod_Rupture_1Description","При ударе с <b>{RuptureChance_UI}|fmt(min_frac=0,max_frac=1)%</> шансом вызывает <me_Rupture>разрыв</>",""
 "Flicker_Mod_QuickSlash_0Name","Быстрый разрез",""
 "Flicker_Mod_QuickSlash_1Description","Теперь наносит <b>{DmgMod_UI}|round()%</> урона оружием.\n<b>-{DistanceMod_UI}|round()%</> проходимой дистанции.\n<b>-{BaseCDMod_UI}|round()%</> длительности перезарядки.\nТребует ближнее оружие",""
 "Flicker_Mod_QuickSlash_4Ability_Description","Совершает рывок на <b>{data.TravelDistance_UI}|fmt(min_frac=0,max_frac=1)м</> в сторону цели, нанося <b>{data.WeaponDmg_UI}|round()%</> урона оружием.\nТребует ближнее оружие",""
