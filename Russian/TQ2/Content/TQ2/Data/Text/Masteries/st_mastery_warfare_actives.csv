@@ -143,7 +143,7 @@
 "Lunge_0Name","Выпад"
 "Lunge_1Description","Совершает рывок на небольшое расстояние и наносит удар.\nНаносит больше урона по <me_Channel>поддерживающим умение</> врагам и <me_Stun>оглушает</> их на <b>1 сек.</>, также возвращая потраченную на умение энергию.\nТребует кинжал, меч или копье."
 "BattlefieldAwareness_0Name","Боевая бдительность"
-"BattlefieldAwareness_1Description","Излучает ауру в <b>{dataSus.Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области.\nАура дает вам и союзникам <b>+{dataBase.ArmorFlat}|round()</> <me_Armor>брони</>."
+"BattlefieldAwareness_1Description","Излучает <me_Aura>ауру</> в <b>{dataSus.Radius_UI}|fmt(min_frac=0,max_frac=1)м</> области.\n<me_Aura>Аура</> дает вам и союзникам <b>+{dataBase.ArmorFlat}|round()</> <me_Armor>брони</>."
 "Valor_0Name","Доблесть"
 "Valor_1Description","Призывает над вашей головой гигантский меч, усиливающий вас.\nПосле окончания умения меч падает вниз, нанося урон врагам.\nУсиление длится <b>{dataActive.DurationTotal}|fmt(min_frac=0,max_frac=1) сек.</> и дает:\n- <b>+{dataBase.MSBonus_UI}|round()%</> скорости движения\n- <b>+{dataBase.DmgBonus_UI}|round()%</> общего урона\nМеч падает с задержкой в <b>{dataActive.DelayTotal}|fmt(min_frac=0,max_frac=1) сек.</> и наносит <b>{AbilityDamage[Dmg1]}</>."
 "Valor_Mod_SwordOfDamocles_0Name","Дамоклов меч"

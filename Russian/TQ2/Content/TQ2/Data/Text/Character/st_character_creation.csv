@@ -60,3 +60,7 @@
 "character_creation_appearance","Внешний вид",""
 "character_creation_appearance_code_pasted","Вид вставлен из буфера обмена",""
 "character_creation_appearance_paste_failed","Недействительный код внешнего вида",""
+"character_creation_cam_portrait","Портрет","camera angle that shows character down to shoulders"
+"character_creation_cam_full","Во весь рост","camera angle that shows the full character"
+"character_creation_cam_face","Лицо","camera angle that shows the face only"
+"character_creation_cam_upper","Верхнее тело","camera angle that shows the upper body"

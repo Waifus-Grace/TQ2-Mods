@@ -49,3 +49,4 @@
 "multiplayer_title","Примечание",""
 "ritual_boss_respawn_notification","Узел памяти открыт",""
 "require_exit_from_boss_area","Попросить уйти",""
+"ritual_not_available_in_multiplayer_tooltip","Ритуалы недоступны в совместной игре.",""

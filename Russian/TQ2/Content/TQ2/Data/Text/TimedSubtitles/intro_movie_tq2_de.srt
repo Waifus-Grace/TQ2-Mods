@@ -1,0 +1,55 @@
+1
+00:00:17,000 --> 00:00:21,000
+KLOTHO: Erzähle eine Geschichte von Sterblichen ...
+
+2
+00:00:21,000 --> 00:00:25,000
+LACHESIS: ... gebunden an die goldenen Fäden des Schicksals.
+
+3
+00:00:37,900 --> 00:00:41,000
+ATROPOS: Erzähle von ihrem Lachen ...
+
+4
+00:00:41,000 --> 00:00:44,000
+... ihren Kämpfen ...
+
+5
+00:00:44,000 --> 00:00:47,000
+... ihrem Ruhm.
+
+6
+00:00:49,400 --> 00:00:53,000
+KLOTHO: Erzähle vom kriegerischen Sparta.
+
+7
+00:00:58,100 --> 00:01:03,500
+LACHESIS: Das Schicksal bestimmte sie zu gottgleicher Größe.
+
+8
+00:01:06,300 --> 00:01:12,500
+ATROPOS: Doch die Götter hatten andere Pläne.
+
+9
+00:01:32,500 --> 00:01:36,500
+KLOTHO: Ihre Ambitionen erzürnten die Göttin.
+
+10
+00:01:41,500 --> 00:00:46,500
+LACHESIS: Die geflügelte Vergeltung zeigte keine Gnade.
+
+11
+00:01:54,100 --> 00:01:59,500
+ATROPOS: Sie befleckte ihre Fäden mit Dunkelheit.
+
+12
+00:02:06,700 --> 00:02:09,800
+KLOTHO: Doch fasse dich nicht zu kurz.
+
+13
+00:02:09,800 --> 00:02:12,600
+LACHESIS: Erzähle uns die ganze Geschichte.
+
+14
+00:02:12,600 --> 00:02:17,100
+ATROPOS: Erzähle uns von Hoffnung.

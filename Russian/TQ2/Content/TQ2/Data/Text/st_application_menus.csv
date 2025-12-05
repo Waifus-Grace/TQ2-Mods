@@ -14,3 +14,4 @@
 "pause_menu_restart","Перезапустить",""
 "pause_menu_exit_warning","Вы уверены, что хотите выйти из игры?","Warning when clicking on button to exit to Desktop"
 "pause_menu_tutorials","Справочник",""
+"screen_exit","Выйти","Used in character creator to exit the screen for example"

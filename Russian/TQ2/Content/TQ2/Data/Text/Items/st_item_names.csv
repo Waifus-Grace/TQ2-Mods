@@ -1,5 +1,5 @@
 ﻿"Key","SourceString","DevComment"
-"item_name_format","{Prefix}|empty(no=""{Prefix} ""){ProperName}{Adjective}|empty(no="" {Adjective}""){Suffix}|empty(no="" {Suffix}"")",""
+"item_name_format","{Prefix}|empty(no=""{Prefix} ""){ProperName}|remove_gender(){Adjective}|empty(no="" {Adjective}""){Suffix}|empty(no="" {Suffix}"")",""
 "damage_type_thermal_cold","Ледо","In weapon name"
 "damage_type_thermal_fire","Огне","In weapon name"
 "damage_type_natural_lightning","Громо","In weapon name"
