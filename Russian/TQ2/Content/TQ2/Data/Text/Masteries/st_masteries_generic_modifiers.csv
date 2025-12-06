@@ -155,7 +155,7 @@
 "Generic_Mod_ConsumeVulnerableGainFlow_0Name","Уязвимый поток",""
 "Generic_Mod_ConsumeVulnerableGainFlow_1Description","При ударе тратит <me_Vulnerable>уязвимость</> на враге и дает <me_Flow>поток</>",""
 "Generic_Mod_BulwarkOnHitSpam_0Name","Оплот",""
-"Generic_Mod_BulwarkOnHitSpam_1Description","При ударе с <b>{Chance_UI}|fmt(min_frac=0,max_frac=1)%</> шансом дает <b>{Bulwark}|floor()</> {Bulwark}|floor()|plural(one=заряд,other=заряда) <me_Bulwark>оплота</>",""
+"Generic_Mod_BulwarkOnHitSpam_1Description","При ударе с <b>{Chance_UI}|fmt(min_frac=0,max_frac=1)%</> шансом дает <b>{Bulwark}|floor()</> {Bulwark}|plural(one=заряд,other=заряда) <me_Bulwark>оплота</>",""
 "Generic_Mod_Summon_Activation_Burnout_0Name","Выгорание",""
 "Generic_Mod_Summon_Activation_Burnout_1Description","<b>+{DmgMod}|as_percentage()</> урона\n<b>+{ASMod_UI}|round()%</> скорости <me_Activation>срабатывания</>\n<b>+{ActivationCost}|round()</> затрат <me_Activation>срабатывания</>",""
 "Generic_Mod_Summon_Activation_SynchronizedAttack_0Name","Совместная атака",""
